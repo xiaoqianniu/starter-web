@@ -20,3 +20,4 @@ Sample website with plenty of files for demos
 ##multiple stash again
 >>>>>>> Stashed changes
 ##testing stash branch
+##compare tag
