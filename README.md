@@ -14,4 +14,8 @@ Sample website with plenty of files for demos
 ##fourth
 ##rebase test
 ##stash test
+<<<<<<< Updated upstream
 ##multiple stash
+=======
+##multiple stash again
+>>>>>>> Stashed changes
