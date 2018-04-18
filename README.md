@@ -13,3 +13,4 @@ Sample website with plenty of files for demos
 ##third
 ##fourth
 ##rebase test
+##stash test
